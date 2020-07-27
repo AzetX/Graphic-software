@@ -1,0 +1,42 @@
+object FChild: TFChild
+  Left = 0
+  Top = 0
+  Caption = #1056#1080#1089#1091#1085#1086#1082
+  ClientHeight = 281
+  ClientWidth = 418
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  FormStyle = fsMDIChild
+  OldCreateOrder = False
+  Visible = True
+  OnClose = FormClose
+  OnCreate = FormCreate
+  PixelsPerInch = 96
+  TextHeight = 13
+  object ScrollBox1: TScrollBox
+    Left = 0
+    Top = 0
+    Width = 418
+    Height = 281
+    Align = alClient
+    TabOrder = 0
+    object Image: TImage
+      Left = 0
+      Top = 0
+      Width = 414
+      Height = 277
+      Align = alClient
+      OnMouseDown = ImageMouseDown
+      OnMouseMove = ImageMouseMove
+      OnMouseUp = ImageMouseUp
+      ExplicitLeft = 16
+      ExplicitTop = 16
+      ExplicitWidth = 33
+      ExplicitHeight = 33
+    end
+  end
+end

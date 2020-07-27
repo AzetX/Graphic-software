@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018.05.19 09:28:03.626.pas,D:\student\Borland Studio Projects\Unit2.pas=E:\Третий курс\Январь-Июнь\практика\разработка\Umain.pas</Transaction>
+    <Transaction>2018.05.19 09:28:03.626.dfm,D:\student\Borland Studio Projects\Unit2.dfm=E:\Третий курс\Январь-Июнь\практика\разработка\Umain.dfm</Transaction>
+    <Transaction>2018.05.19 09:28:09.991.pas,D:\student\Borland Studio Projects\Unit1.pas=E:\Третий курс\Январь-Июнь\практика\разработка\UChild.pas</Transaction>
+    <Transaction>2018.05.19 09:28:09.991.dfm,D:\student\Borland Studio Projects\Unit1.dfm=E:\Третий курс\Январь-Июнь\практика\разработка\UChild.dfm</Transaction>
+    <Transaction>2018.05.19 09:28:20.335.bdsproj,D:\student\Borland Studio Projects\Project1.bdsproj=E:\Третий курс\Январь-Июнь\практика\разработка\Project1.bdsproj</Transaction>
+    <Transaction>2018.05.19 09:31:53.354.bdsproj,E:\Третий курс\Январь-Июнь\практика\разработка\Project1.bdsproj=E:\Третий курс\Январь-Июнь\практика\разработка\Project1.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>
